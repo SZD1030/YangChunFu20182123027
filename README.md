@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# YangChunFu20182123027
 
-You can use the [editor on GitHub](https://github.com/ycfxhsw/YangChunFu20182123027/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## UML 作业
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ycfxhsw/YangChunFu20182123027/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 小组成员：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;杨春富 20182123027&nbsp;(组长)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;孙梓栋 20182123048<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;莫&nbsp;&nbsp;&nbsp;&nbsp;亮 20182123038<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李映城 20182123044
